@@ -1,0 +1,36 @@
+html { height: 100%; }
+
+body {
+  background: grey;
+}
+
+.navbar {
+  font-family: 'segoe ui';
+  font-size: 1.7vw;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: grey;
+  display: inline-block;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 20px 130px;
+  text-decoration: none;
+}
+
+h1 { 
+  font-family: 'segoe ui';
+  font-size: 10vw;}
+
