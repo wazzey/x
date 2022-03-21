@@ -1,7 +1,7 @@
 html { height: 100%; }
 
 body {
-  background: grey;
+  background: #ffd700;
 }
 
 .navbar {
@@ -24,7 +24,7 @@ li {
 
 li a {
   display: block;
-  color: black;
+  color: white;
   text-align: center;
   padding: 20px 130px;
   text-decoration: none;
