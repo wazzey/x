@@ -5,7 +5,7 @@ body {
 }
 
 .navbar {
-  font-family: monospace;
+  font-family: 'source code pro';
   font-size: 1.7vw;
   text-shadow: 2px 2px 2px hotpink;
 }
