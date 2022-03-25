@@ -53,7 +53,7 @@ li a {
 }
 
 h1 { 
-  font-family: monospace;
+  font-family: 'source code pro';
   font-size: 10vw;}
 
 .active {
@@ -68,7 +68,7 @@ video {
 }
 
 .about {
-  font-family: monospace;
+  font-family: 'source code pro';
   font-size: 1.7vw;
   font-weight: 600;
 }
